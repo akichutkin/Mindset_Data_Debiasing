@@ -150,24 +150,3 @@ If all the steps have been successfully executed a new browser window will open 
 ## Contribution statement
 
 We declare that all memebers of the team contributed equally. Below you find an overview of the topics the individuals worked on:
-
-1. Ziyao Shang
-   - Backend functionalities
-   - Text processing functionalities
-   - Processing visualizations
-   - Several smaller front-end features
-2. Andras Strausz
-   - Backend functionalities
-   - Database
-   - Login process
-   - Main frontend functionalities
-3. Alexander Kichutkin
-   - Overview pages
-   - Main design elements
-   - Several smaller front-end features
-   - Text
-4. Senthuran Kalananthan
-   - Overview pages
-   - Main design elements
-   - User guidance
-   - Several smaller front-end features
