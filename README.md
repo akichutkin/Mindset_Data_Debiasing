@@ -1,4 +1,4 @@
-# (Team A10) MindSet: A human-centric approach to debias your data
+#MindSet: A human-centric approach to debias your data
 
 ## Short description
 
